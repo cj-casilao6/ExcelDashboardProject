@@ -1,5 +1,5 @@
 # ExcelDashboard
-Project done in Excel. Firstly, get an excel file regarding bike sales. Next is to clean the data so that I could build PivotTables to showcase a relationships between a number of different columns. From there, create a few PivotCharts that would eventually be put together onto a final dashboard which also have Slicers so the user can filter the columns on their desired criteria.
+Firstly, get an excel file regarding bike sales. Next is to clean the data so that I could build PivotTables to showcase a relationships between a number of different columns. From there, create a few PivotCharts that would eventually be put together onto a final dashboard which also have Slicers so the user can filter the columns on their desired criteria.
 
 # Raw Excel Data
 Below is a sample of the raw excel sheet. (Total rows: 1027)
